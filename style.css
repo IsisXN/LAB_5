@@ -11,7 +11,7 @@ h1{
 
 td, th {
   padding: 10px;
-  border: 2px solid;
+  border: 1px solid;
   text-align: center;
 }
 
@@ -28,14 +28,14 @@ img {
 
 #planets{
   border-collapse: collapse;
-  border: 2px solid black;
+  border: 1px solid black;
   margin-left: auto;
   margin-right: auto;
 }
 
 #planets{
   background-color:  #e6ffe6;
-  border: 1px;
+  border: 0px;
 }
 
 .planet-names{
