@@ -29,7 +29,7 @@ img {
 }
 
 #planets{
-  background-color:  #e6ffe6;
+  background-color:  #000000;
   border: 0px;
 }
 
@@ -39,14 +39,19 @@ img {
 
 
 .planet-names{
-  color: #008080;
+  color: #000000;
   background-color:  #e6ffe6;
   font-size: 2em;
   font-weight: bold;
 }
 
-.headings{
-  background-color:  #e6ffe6;
+.side-titles{
+  background-color:  #000000;
+  text-align: left;
+}
+
+.side-titles-column{
+  background-color: #b19cd9;
   text-align: left;
 }
 
