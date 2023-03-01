@@ -21,6 +21,17 @@ img {
   border: 0em;
   margin: 0em;
 } 
+#planets{
+  border-collapse: collapse;
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#planets{
+  background-color:  #e6ffe6;
+  border: 0px;
+}
 
 .image-background{
   background-color:  #e6ffe6;
