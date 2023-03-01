@@ -26,17 +26,6 @@ img {
   background-color:  #e6ffe6;
 }
 
-#planets{
-  border-collapse: collapse;
-  border: 1px solid black;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-#planets{
-  background-color:  #e6ffe6;
-  border: 0px;
-}
 
 .planet-names{
   color: #008080;
@@ -51,7 +40,7 @@ img {
 }
 
 .hover-facts:hover td{
-  background-color: #e6ffe6 ;
+  background-color: #eeffcc ;
 } 
 
 .pname{
